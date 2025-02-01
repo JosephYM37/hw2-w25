@@ -33,7 +33,7 @@ img {
 div {
     min-height: 125px;
     padding: 20px 20px 20px 20px;
-    border: 3px solid #FFFFFF;
+    border: 3px solid #FFFFFF !important;
 }
 
 .introduction {
