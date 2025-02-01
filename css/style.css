@@ -18,7 +18,7 @@ h2 {
 
 p {
     font-size: 24px;
-    color: FFFFFF;
+    color: #FFFFFF;
     padding: 10px 0 0 10px;
 }
 
@@ -85,6 +85,11 @@ div {
     border-left: none;
 }
 
+.red, .blue, .yellow, .green {
+    border-right: none;
+    border-style: none; /* Ensures no border is applied to all sides */
+}
+
 footer {
     background: linear-gradient(to bottom, 
         #000000 0%, 
@@ -94,7 +99,7 @@ footer {
     border: 5px solid #FFFFFF;
     font-size: 20px;
     text-align: right;
-    padding: 15px, 15px, 15px, 0;
+    padding: 15px 15px 15px 0;
 
 }
 
