@@ -1,9 +1,8 @@
 /* Global Styles */
 body {
-    font-family: Arial, Verdana, sans-serif;
+    font-family: Arial, Verdana;
     background-color: #000000; /* Black background */
     color: #FFFFFF; /* White font */
-    max-width: 900px;
     margin: 20px 20px 0 20px; /* 20px top and sides, none on bottom */
   }
   
@@ -22,7 +21,7 @@ body {
   /* Paragraph Styles */
   p {
     font-size: 24px;
-    padding: 10px 0 10px 10px; /* 10px padding top and left */
+    padding: 10px 0 0 10px; 
   }
   
   /* Image Styles */
@@ -76,8 +75,6 @@ body {
     border-right: none; 
     border-top: none;
   }
-
-
 
 .yellow p{
     color: #707070;
