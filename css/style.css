@@ -20,7 +20,7 @@ h2 {
 p {
     font-size: 24px;
     color: #FFFFFF;
-    padding: 10px 0 0 10px;
+    padding: 10px 0 0 10px !important;
 }
 
 img {
@@ -32,11 +32,12 @@ img {
 
 div {
     min-height: 125px;
-    padding: 20px 20px 20px 20px;
+    padding: 20px;
     border: 3px solid #FFFFFF;
 }
 
 .introduction {
+    border: 3px solid #FFFFFF;
     border-radius: 15px;
     margin-top: 15px;
     line-height: 2;
@@ -94,10 +95,10 @@ footer {
         #0000FF 25%, 
         #0066FF 70%, 
         #000000 100%);
-    border: 5px solid #FFFFFF;
+    border: 5px solid #FFFFFF !important;
     font-size: 20px;
     text-align: right;
-    padding: 15px 15px 15px 0;
+    padding: 15px 15px 15px 0 !important;
 
 }
 
