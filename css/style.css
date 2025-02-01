@@ -86,11 +86,6 @@ div {
     border-left: none;
 }
 
-.red, .blue, .yellow, .green {
-    border-right: none;
-    border-style: none; /* Ensures no border is applied to all sides */
-}
-
 footer {
     background: linear-gradient(to bottom, 
         #000000 0%, 
