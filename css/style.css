@@ -64,7 +64,10 @@ body {
     border-left: none; 
     border-bottom: none; 
   }
-  
+
+  .blue h2, .blue p{
+    color: #C4C4C4;
+  }
   /* Yellow Class */
   .yellow {
     background-color: #FFFF00; /* Yellow background */
@@ -73,6 +76,13 @@ body {
     border-right: none; 
     border-top: none;
   }
+
+
+
+.yellow p{
+    color: #707070;
+ }
+ 
   
   /* Green Class */
   .green {
