@@ -28,7 +28,7 @@ body {
   img {
     width: 250px;
     display: block;
-    margin: 20 auto;
+    margin: 0 auto;
     border: 10px dashed #FFFFFF; /* White dashed border */
   }
   
@@ -80,11 +80,11 @@ body {
 
   
   /* Green Class */
-  .green {
+  div.green {
     background-color: #008500; /* Green background */
     text-align: left;
     margin-right: 50px;
-    border-left: none; 
+    border: 0px; 
     border-bottom: none; 
   }
   
