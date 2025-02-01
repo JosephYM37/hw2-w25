@@ -1,5 +1,5 @@
 body {
-    font-family: 'Arial', Verdana;
+    font-family: Arial, Verdana, sans-serif !important;
     background-color: #000000;
     color: #FFFFFF;
     max-width: 900px;
